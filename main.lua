@@ -15,4 +15,4 @@ bot:on("message_create", function(message)
     
 end)
 
-bot:login("ODQ5MTIxNDEyNjE4MjU2NDE3.YLWj8A.OtVYmX3-pAe0wZYASKT2O6qKL3w")
+bot:login(token)
